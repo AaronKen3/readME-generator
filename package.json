@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "name": "readme-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronKen3/readME-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronKen3/readME-generator/issues"
+  },
+  "homepage": "https://github.com/AaronKen3/readME-generator#readme"
+}
